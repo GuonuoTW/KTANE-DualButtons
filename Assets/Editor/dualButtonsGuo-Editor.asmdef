@@ -1,0 +1,10 @@
+{
+  "name": "dualButtonsGuo-Editor",
+  "references": [
+    "dualButtonsGuo"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
